@@ -1,0 +1,13 @@
+class food {
+
+constructor(){
+
+
+
+    
+}
+
+
+
+
+}
